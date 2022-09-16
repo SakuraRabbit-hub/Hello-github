@@ -1,3 +1,11 @@
+# 使用Vim
+## 进入vim  
+    vim [filename]  
+## 开启编辑模式  
+    Esc  
+## 退出vim  
+    ZZ  
+---
 # 新建代码仓库
 ## 在当前目录新建一个Git代码库
     git init
