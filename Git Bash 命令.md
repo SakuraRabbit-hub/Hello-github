@@ -37,7 +37,7 @@
 ---
 # 同步远程仓库
 ## 增加远程仓库，并命名
-    git remove add [shortname] [url]
+    git remote add [shortname] [url]
 ## 将本地的提交推送到远程仓库
     git push [remote] [branch]
 ## 将远程仓库的提交拉下到本地
